@@ -1,0 +1,21 @@
+.Head{
+   padding-top: 5%;
+ }
+
+ .Card{
+   border-radius: 30px;
+ }
+
+ .color{
+    color: blue;
+ }
+
+ .bkg{
+   background-color: blue;
+   color: white;
+ }
+
+ .icon{
+   width: 100;
+   height: 100;
+ }
